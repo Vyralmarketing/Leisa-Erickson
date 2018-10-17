@@ -60,3 +60,4 @@ permalink: /join-our-team/
 					<!--base32-c9gq6t9k68pk8c9he1t7cxkecdkpedhpe9h6at3me5r7ee1kddhpwx9q71up4tb3f1u6mc3mdcwp6vkg6rw3gc1dc9gq6t9k68-base32-->
 					<div class="hidden"><input type="hidden" value="{{site.data.settings.client.email}}" name="_to" /> <input type="hidden" value="Recruiting Contact Request Message From Your Vyral Careers and Training Video Blog" name="_subject" /> <input type="text" name="_gotcha" /></div>
 				</form>
+</div>

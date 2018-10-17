@@ -1,17 +1,10 @@
 audit_header: false
-title:
+title: "-- MARKET --'s Best Real Estate Training"
 description: -- CLIENT NAME --, a top Real Estate Agent in -- MARKET --, shares his/her own internal real estate agent training for free. His/Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
-show_custom_links: true
+show_custom_links: false
 custom_links:
-  - title: Join Our Team
-    url: /join-our-team/
-  - title: Events
-    url: #
-  - title: Free Strategy Call
-    url: /strategy-call/
-  - title: Free Newsletter
-    url: /subscribe/
-
+  - title:
+    url:
 
 client:
   name:
@@ -29,6 +22,20 @@ client:
   phone2_type:
   email:
   url:
+
+sidebar_CTA:
+  - CTA_image_path: /img/cta-images/001.jpg
+    CTA_title: "Looking to Build Your Real Estate Career?"
+    CTA_text: "Let's talk about how -- CLIENT BRAND -- can take your business to new heights."
+    CTA_link_text: "Free Strategy Session"
+    CTA_url: /contact/
+
+# second_sidebar_CTA:
+#   - CTA_image_path2: /img/cta-images/002.jpg
+#     CTA_title2: "Join Our Team"
+#     CTA_text2: "Sell more homes by joining forces with the our dynamic real estate company."
+#     CTA_link_text2: "Career Info"
+#     CTA_url2: /
 
 lender:
   show_section: false
