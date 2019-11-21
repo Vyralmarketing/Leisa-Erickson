@@ -1849,6 +1849,10 @@ table tr, table td {
   margin: 0 auto;
   width: 75%; }
 
+.full-post-cta {
+  width: 100%;
+  margin: 3rem 0; }
+
 .post-image-container {
   padding: 0; }
 
