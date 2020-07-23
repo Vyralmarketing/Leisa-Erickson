@@ -18,6 +18,10 @@
     		{% endfor %}
 			{% endif %}
 			{% if site.data.settings.CTAs.first_CTA_URL != '#contact' and site.data.settings.CTAs.second_CTA_URL != '#contact' %}
+		<li><a href="{{site.data.settings.sidebar_CTAS.cta1_link}}">{{site.data.settings.sidebar_CTAS.cta1}}</a></li>
+		<li><a href="{{site.data.settings.sidebar_CTAS.cta2_link}}">{{site.data.settings.sidebar_CTAS.cta2}}</a></li>
+		<li><a href="{{site.data.settings.sidebar_CTAS.cta3_link}}">{{site.data.settings.sidebar_CTAS.cta3}}</a></li>
+		<li><a href="{{site.data.settings.sidebar_CTAS.cta4_link}}" target="_blank">{{site.data.settings.sidebar_CTAS.cta4}}</a></li>
 		<li><a href="/contact" id="contact">Contact</a></li>
 		{% endif %}
 
