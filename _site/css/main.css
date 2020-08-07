@@ -2356,19 +2356,17 @@ table tr, table td {
   margin: auto; }
 
 .footer {
-  background: #989898;
-  color: #5d9bd3;
+  background: #999;
+  color: #fff;
   padding: 2rem;
-  text-align: center;
+  text-align: left;
   font-size: 18px; }
-  .footer hr {
-    border-top: 2px solid #b40101; }
   .footer address {
     font-style: normal; }
 
 @media(max-width: 500px) {
   .footer {
-    text-align: center; }
+    text-align: left; }
     .footer .vyral-logo {
       height: 3rem;
       width: 3rem; } }
@@ -2376,7 +2374,7 @@ table tr, table td {
   text-align: center; }
 
 .vyral-logo {
-  fill: #b40101;
+  fill: #fff;
   display: inline;
   height: 2rem;
   width: 2rem;
@@ -2389,9 +2387,29 @@ table tr, table td {
 .footer-pad {
   padding-top: 20px; }
 
-@media (max-width: 760px) {
-  .footer {
-    margin-bottom: 40px; } }
+.footer-title {
+  text-transform: uppercase;
+  font-size: 26px;
+  font-weight: bold; }
+
+.footer-hr {
+  width: 20%;
+  margin: 1rem 0;
+  align: left !important;
+  border-top: 2px solid #b40101; }
+
+.footer-container {
+  width: 100%;
+  max-width: 160rem;
+  margin: 0 auto; }
+
+.footer-logo {
+  display: block;
+  margin: 2rem auto 0;
+  max-width: 50px; }
+
+@media(max-width: 750px) {
+  align: center !important; }
 .item-container {
   margin: 3rem 5rem;
   box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
