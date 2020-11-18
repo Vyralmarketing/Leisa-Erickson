@@ -26,6 +26,9 @@ client:
   email:
   url:
 
+forms:
+  sitekey:
+
 sidebar_CTAS:
   cta1: Join Our Team
   cta1_link: /join-our-team/
