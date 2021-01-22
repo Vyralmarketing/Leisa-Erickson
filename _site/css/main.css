@@ -1207,42 +1207,38 @@ html[xmlns] .flexslider .slides {
       margin-left: 10px; }
 
 .photo-cta {
-  width: 100%;
-  line-height: 20px;
-  display: block;
-  margin: 0 auto;
   position: relative;
-  margin-bottom: 20px; }
+  width: 100%; }
 
-.photo-cta-container {
-  width: 70%;
-  margin-left: 15%; }
+.photo-cta img {
+  width: 100%;
+  margin: 0 auto 3rem; }
 
-.cta-button {
+.photo-cta .cta-button {
   position: absolute;
-  bottom: 20px;
-  justify-content: center;
-  display: block;
-  color: #b40101;
+  top: 75%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
   background-color: #fff;
-  border: 2px solid #b40101;
-  text-decoration: none;
-  padding: 10px 20px;
+  color: #b40101;
   font-size: 20px;
-  font-weight: bold;
-  margin-left: auto;
-  margin-right: auto;
-  left: 100px;
-  right: 100px;
-  text-align: center; }
-  .cta-button a {
-    color: #b40101; }
-  .cta-button:hover {
-    border: 2px solid #b40101;
-    color: #fff;
-    background-color: #b40101; }
-    .cta-button:hover a {
-      color: #fff; }
+  padding: 10px 20px;
+  border: 2px solid #b40101;
+  cursor: pointer;
+  text-align: center;
+  font-weight: bold; }
+
+.photo-cta .cta-button:hover {
+  background-color: #b40101;
+  border: 2px solid #b40101;
+  color: white; }
+
+.photo-cta .cta-button a:hover {
+  background-color: #b40101;
+  border: 2px solid #b40101;
+  color: white; }
 
 .jp-audio {
   border: 0;
