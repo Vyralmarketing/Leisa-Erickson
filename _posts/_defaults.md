@@ -13,5 +13,5 @@ youtube_alternate_image:
 youtube_code:
 ---
 {% include youtube.html %}
-{% include full-post-cta.html %}
+
 {% include pullquote.html %}

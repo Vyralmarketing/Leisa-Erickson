@@ -20,8 +20,6 @@ permalink: /strategy-call/
 
 <p>It can get overwhelming to stick to a consistent business plan that makes you money.</p>
 
-<!-- {% include strategy-photos.html %} -->
-
 <p>My name is ____ and I’ve sold ____ of homes to date.</p>
 
 <p>I want to help you sell more homes.</p>
