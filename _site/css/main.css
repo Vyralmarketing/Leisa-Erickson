@@ -1178,7 +1178,10 @@ html[xmlns] .flexslider .slides {
 
 .photo-cta {
   position: relative;
-  width: 100%; }
+  width: 100%;
+  max-width: 350px;
+  display: block;
+  margin: 0 auto; }
 
 .photo-cta img {
   width: 100%;
@@ -1410,9 +1413,6 @@ html[xmlns] .flexslider .slides {
 .navbar-andross-bottom .container-fluid {
   margin: 0; }
 
-@media (max-width: 767px) {
-  .footer {
-    margin-bottom: 50px; } }
 .library-container {
   border: 1px solid #cfcfcf;
   border-radius: 0px;
@@ -1635,7 +1635,14 @@ p {
   font-size: 18px; }
 
 ul {
-  list-style-type: disc; }
+  list-style: disc;
+  padding-left: 3rem;
+  list-style-position: inside; }
+
+ol {
+  list-style: decimal;
+  padding-left: 3rem;
+  list-style-position: inside; }
 
 .left {
   text-align: left; }
@@ -1669,6 +1676,9 @@ a {
     color: white; }
   .button:visited, .button-ghost:visited, button:visited, input[type="button"]:visited, input[type="submit"]:visited {
     color: white; }
+
+.whitespace {
+  margin-top: 3rem; }
 
 .button-ghost {
   background: transparent;
@@ -1779,8 +1789,10 @@ table tr, table td {
 .pad {
   padding: 0 2rem; }
 
-.post-list li {
-  display: inline; }
+.post-list {
+  padding-left: 0; }
+  .post-list li {
+    display: inline; }
 
 .post-overview-title {
   font-size: 3rem;
@@ -2061,7 +2073,8 @@ table tr, table td {
   .socials ul {
     margin-bottom: 0.1rem;
     max-height: 5rem;
-    list-style-type: none; }
+    list-style-type: none;
+    padding-left: 0; }
     .socials ul li {
       padding: 0.3rem;
       display: inline-block; }
@@ -2308,10 +2321,24 @@ table tr, table td {
 .contact-text {
   margin: auto; }
 
+@media(max-width: 1000px) {
+  .client-image-container {
+    width: 150px;
+    height: 150px; }
+
+  .client-image {
+    max-width: 150px; } }
+@media(max-width: 450px) {
+  .client-image-container {
+    width: 100px;
+    height: 100px; }
+
+  .client-image {
+    max-width: 100px; } }
 .footer {
   background: #999;
   color: #fff;
-  padding: 2rem;
+  padding: 2rem 2rem 0;
   text-align: left;
   font-size: 18px; }
   .footer address {
@@ -2590,7 +2617,7 @@ form select {
   text-align: center; }
 
 #recruit {
-  width: 85%;
+  width: 75%;
   margin-left: 13%;
   margin-top: 2rem;
   font-size: 18px; }
@@ -2631,7 +2658,7 @@ form select {
 
 .recruiting-page {
   Font-size: 18px;
-  width: 75%;
+  width: 65%;
   margin: 0 auto;
   color: #000; }
 
@@ -2705,9 +2732,6 @@ form select {
 
 .author {
   color: #b40101; }
-
-.indent {
-  margin-left: 4rem; }
 
 .fb-page {
   width: 70%;
