@@ -1347,10 +1347,10 @@ html[xmlns] .flexslider .slides {
   padding-left: 15px; }
 
 .navbar-left {
-  margin-top: 2rem; }
+  margin-top: 1.2rem; }
 
 .navbar-right {
-  margin-top: 2rem; }
+  margin-top: 1.2rem; }
   .navbar-right a {
     font-weight: bold; }
 
@@ -1368,7 +1368,7 @@ html[xmlns] .flexslider .slides {
     height: 300px; }
 
   .nav-logo-small {
-    max-width: 250px;
+    max-width: 225px;
     margin-top: -10px; } }
 @media(max-width: 347px) {
   .navbar {
