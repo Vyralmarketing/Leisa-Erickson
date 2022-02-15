@@ -1,5 +1,5 @@
-title: "Portland's Best Real Estate Training"
-description: Aaron Heard, a top Real Estate Agent in Portland, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.
+title: "-- market --'s Best Real Estate Training"
+description: -- client name --, a top Real Estate Agent in -- market --, shares his/her own internal real estate agent training for free. His/Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
 
 CTAS:
   cta1: Join Our Team
@@ -17,27 +17,21 @@ custom_links:
     url:
 
 client:
-  name: Aaron Heard
+  name:
   title:
   license_number:
   about_markdown: |
-    Aaron began his career in real estate in 2007, just before the market collapsed, and has soared to the top of the industry. In 2008, Aaron was awarded the "Rookie of the Year" award for outselling his competition by over 2 million dollars in sales.
 
-    In 2011, Aaron was introduced to a national speaker and a mega agent coach, they joined forces and began a Real Estate Expansion Team. Aaron, as the Lead Agent, went on to process over 100 home sales in the first year. By the end of 2017, the team had pended almost 1,000 houses, just that year, and had 170 agents in 90 different locations across the US, under Aaron’s leadership as Director of Expansion.
-
-    Aaron is a Keller Williams MAPS Mastery Coach. He coaches agents across the US and Canada on how to build a business worth owning and having a life by design, not by default.
-
-    Today Aaron is re-tooling the Real Estate Sales Team model through developing RealTour Property Group based in Portland, Oregon. His sales team will deliver a world-class customer experience through consistent communication, while allowing agent partners to build their businesses.
-  brand: Real Tour Property Group
-  brokerage: Keller Williams Realty Portland Central
-  market: Portland
-  address: 919 NE 19th Ave, Suite 100, Portland, OR 97232<br>6400 SE Lake Rd, Suite 200, Milwaukie, OR 97222
-  phone: 503-890-4527
+  brand:
+  brokerage:
+  market:
+  address:
+  phone:
   phone_type:
   phone2:
   phone2_type:
-  email: Aaron@RealTourProperties.com
-  url: https://www.realtourproperties.com
+  email:
+  url:
 
 forms:
   sitekey:
@@ -45,33 +39,33 @@ forms:
 mission: Our Mission on this site is to educate Real Estate Agents on how to sell more homes.
 
 socials:
-  review_sm_icons: true
-  facebook_url: http://www.facebook.com/AaronPHeard
-  linkedin_url: http://www.linkedin/in/aaronheard
+  review_sm_icons: false
+  facebook_url:
+  linkedin_url:
   youtube_url:
   twitter_url:
   instagram_url:
   pinterest_url:
-  zillow_url: https://www.zillow.com/profile/Aaronheard/
+  zillow_url:
   trulia_url:
   yelp_url:
   podcast_url:
   google_business_url:
 
 podcast:
-  title: 'Portland Real Estate Podcast with Aaron Heard'
+  title: '-- market -- Real Estate Podcast with -- client name --'
   categories: Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Portland Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Real Tour Property Group - your professional Portland Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Portland, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
-  author: 'Aaron Heard'
+  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- market -- Area Real Estate Market'
+  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- client brand -- - your professional -- market -- Real Estate Agents.'
+  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- market --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  author: '-- client name --'
 
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: Portland Real Estate Video Blog
+  hero_text: -- market -- Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
