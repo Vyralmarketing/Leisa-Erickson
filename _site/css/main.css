@@ -2365,7 +2365,7 @@ table tr, table td {
     fill: #fe1d1d; }
 
 .footer-pad {
-  padding-top: 20px; }
+  padding-bottom: 40px; }
 
 .footer-title {
   text-transform: uppercase;
