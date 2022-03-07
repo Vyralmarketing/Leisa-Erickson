@@ -124,3 +124,25 @@
 .fb-page
 	width: 70%
 	margin-left: 15%
+
+.apply-now
+	background: $brand
+	color: $light-text
+	border: 1px solid $brand
+	border-radius: $button-radius
+	padding: 10px 20px
+	margin-top: 20px
+	text-decoration: none
+	font-size: 3rem
+	text-align: center
+	&:hover
+		background: #fff
+		color: $brand
+		border: 1px solid $brand
+	&:active
+		box-shadow: 0 0 0 $brand
+		@include transform(translateY(0rem))
+
+.apply-now>a
+	background: $brand
+	color: $light-text

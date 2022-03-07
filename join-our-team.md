@@ -45,4 +45,6 @@ Let’s help you grow your business,
 
 {{site.data.settings.client.name}}
 
-<div data-paperform-id="4cdkuofg"></div><script>(function() {var script = document.createElement('script'); script.src = "https://paperform.co/__embed.min.js"; document.body.appendChild(script); })()</script>
+<div style="text-align:center;margin-bottom:4rem;">
+<a href="" class="apply-now" target="_blank">Apply Now</a>
+</div>
