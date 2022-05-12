@@ -6,15 +6,15 @@ permalink: /join-our-team/
 
 <h1 class="join-us">Join One of the Fastest Growing Real Estate Teams in {{site.data.settings.client.market}}</h1>
 <h5 class="join-us-subtitle">How would your life change if you consistently earned $60,000, $75,000, $100,000 or more as a full-time real estate agent?</h5>
-<div class="recruiting-photo">
+<!-- <div class="recruiting-photo">
 <span class="client-image-container">
 <img src="/img/headshot.jpg" alt="{{site.data.settings.client.name}}" class="client-image"/>
 </span>
 <figcaption class="caption">{{site.data.settings.client.name}}</figcaption>
-</div>
+</div> -->
 
 
-Dear Real Estate Agent,
+<!-- Dear Real Estate Agent,
 
 Are you frustrated with where you are in your real estate business? I’d like to offer you a free subscription to my real estate agent training e-newsletter. **You’ll receive:**
 <ul>
@@ -43,7 +43,7 @@ I invite you to subscribe; simply enter your email address, and you’ll get a c
 
 Let’s help you grow your business,
 
-{{site.data.settings.client.name}}
+{{site.data.settings.client.name}} -->
 
 <div style="text-align:center;margin-bottom:4rem;">
 <a href="" class="apply-now" target="_blank">Apply Now</a>
