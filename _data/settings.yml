@@ -91,11 +91,11 @@ podcast:
     buyer
   author: '-- client name --'
 images:
-  client_headshot_path: /img/headshot.jpg
-  hero_logo_path: /img/logo.png
+  client_headshot_path: /uploads/headshot.jpg
+  hero_logo_path: /uploads/logo.png
   logo_width_number: 40
   hero_text: '-- market -- Real Estate Video Blog'
-  hero_background_hex: '#999'
+  hero_background_hex: '#999999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
