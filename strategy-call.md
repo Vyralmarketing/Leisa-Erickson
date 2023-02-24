@@ -26,13 +26,13 @@ Once I understand how you like to run a business that’s authentic to you (refe
 <div class="qanda">
   <p class="section-title">Here’s what a few agents say about working with me…</p>
 
-  <p><span class="quote">"This training is great!"</span><br>
-  <span class="author">- Bob</span></p>
+  <p><span class="quote">"Leisa and Matt have offered phenomenal mentorship as this is my first job out of college. All the Advisors and staff members are helpful, and pleasant to work with. I look forward to my continued growth with the company!"</span><br>
+  <span class="author">- Genesis Martinez</span></p>
 
-  <p><span class="quote">"This training is great!"</span><br>
-  <span class="author">- Bob</span></p>
+  <p><span class="quote">"I've had the most positive work experience in my life to date. The entire team from the administrative department to the advisors are generous, transparent and lively."</span><br>
+  <span class="author">- Barbara Lopaciuk</span></p>
 
-  <p><span class="quote">"This training is great!"</span><br>
+  <p><span class="quote">"Very professional and experienced team led by Leisa and Matt Erickson. Their knowledge and expertise of the St Pete market is top-shelf."</span><br>
   <span class="author">- Bob</span></p>
 </div>
 <hr>
