@@ -4,14 +4,14 @@ description: >-
   internal real estate agent training for free. Her Real Estate Training, Tips
   and Advice will help you sell more homes in less time.
 CTAS:
-  cta1: Join Our Team
-  cta1_link: /join-our-team/
-  cta2: Free Newsletter
-  cta2_link: /subscribe/
-  cta3: Free Strategy Call
-  cta3_link: /strategy-call/
-  cta4:
-  cta4_link:
+  - title: Join Our Team
+    url: /join-our-team/
+  - title: Free Newsletter
+    url: /subscribe/
+  - title: Free Strategy Call
+    url: /strategy-call/
+  - title:
+    url:
 show_custom_links: false
 custom_links:
   - title:
