@@ -10,8 +10,8 @@ CTAS:
   cta2_link: /subscribe/
   cta3: Free Strategy Call
   cta3_link: /strategy-call/
-  cta4: Events
-  cta4_link: /
+  cta4:
+  cta4_link:
 show_custom_links: false
 custom_links:
   - title:
