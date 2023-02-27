@@ -33,7 +33,7 @@ Once I understand how you like to run a business that’s authentic to you (refe
   <span class="author">- Barbara Lopaciuk</span></p>
 
   <p><span class="quote">"Very professional and experienced team led by Leisa and Matt Erickson. Their knowledge and expertise of the St Pete market is top-shelf."</span><br>
-  <span class="author">- Bob</span></p>
+  <span class="author">- Stanley Chow</span></p>
 </div>
 <hr>
 
