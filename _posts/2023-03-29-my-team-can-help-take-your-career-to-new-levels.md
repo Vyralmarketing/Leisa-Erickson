@@ -14,7 +14,7 @@ youtube_code: XKXQl2N1hBA
 ---
 {% include youtube.html %}
 
-{% include excertp.html %}
+{% include excerpt.html %}
 
 In our area, there are thousands of licensed agents, so how do you make sure you succeed? As the market gets harder and harder, you should genuinely consider joining a team. There are many benefits to this, and **our team can help you find success.**&nbsp;
 
