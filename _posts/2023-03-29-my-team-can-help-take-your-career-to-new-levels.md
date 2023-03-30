@@ -20,4 +20,4 @@ In our area, there are thousands of licensed agents, so how do you make sure you
 
 On our team, we accept agents of all experience levels. **We offer unparalleled support**, transaction management to assist you, a marketing person that will help you become more well-known and define your own brand, and weekly training sessions to help you stay on the right path and gain essential knowledge. We also do weekly “lunch and learns,” where the food is provided, and we do team trips—this summer I am taking my top agents on a cruise.&nbsp;
 
-If you’re interested in joining our team and taking your business to the next level, please don’t hesitate to reach out. I would love to work with you and talk with you, and I can keep things confidential if need be. Call or email me anytime, and I look forward to hearing from you.
+If you’re interested in joining our team and taking your business to the next level, please don’t hesitate to reach out. I would love to work and talk with you, and I can keep things confidential if need be. Call or email me anytime, and I look forward to hearing from you.
