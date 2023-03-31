@@ -9,8 +9,8 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/erickson-team.jpg
-youtube_code: XKXQl2N1hBA
+youtube_alternate_image: /uploads/erickson-team-1.jpg
+youtube_code: 1T1FSb_OM7o
 ---
 {% include youtube.html %}
 
