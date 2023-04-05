@@ -12,6 +12,8 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code:
 ---
+![](/uploads/istock-141573020.jpg){: width="3800" height="2367"}
+
 St. Petersburg, FL is a vibrant and exciting city that offers visitors a plethora of things to see and do. In the heart of it all is downtown St. Pete, a bustling urban center packed with cultural attractions, world-class dining, and stunning waterfront views. If you're planning a trip to St. Pete, be sure to check out these top five must-see attractions in downtown.
 
 1. The Dali Museum: This iconic museum is home to the largest collection of Salvador Dali's work outside of Europe. The stunning building itself is a work of art, with a unique geodesic dome that reflects the artist's style. Inside, you'll find a wide range of Dali's paintings, sculptures, and other works of art, as well as rotating exhibits that showcase other artists.
