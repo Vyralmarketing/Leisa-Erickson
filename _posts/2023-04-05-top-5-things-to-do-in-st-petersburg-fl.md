@@ -9,7 +9,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/istock-141573020.jpg
 youtube_code:
 ---
 ![](/uploads/istock-141573020.jpg){: width="3800" height="2367"}
