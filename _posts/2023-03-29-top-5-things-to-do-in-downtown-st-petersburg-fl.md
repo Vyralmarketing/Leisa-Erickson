@@ -3,7 +3,9 @@ layout: post
 title: TOP 5 THINGS TO DO IN DOWNTOWN ST. PETERSBURG, FL
 date: 2023-03-29 00:00:00
 tags:
-excerpt: Our real estate team can help you succeed and go to the next level.
+excerpt: >-
+  Looking for some exciting things to do while you're in Downtown St.
+  Petersburg? We have a list for you!
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -12,8 +14,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/peters.jpg
 youtube_code:
 ---
-{% include excerpt.html %}
-
 ![](/uploads/peters.jpg){: width="1280" height="720"}
 
 St. Petersburg, FL is a vibrant and exciting city that offers visitors a plethora of things to see and do. In the heart of it all is downtown St. Pete, a bustling urban center packed with cultural attractions, world-class dining, and stunning waterfront views. If you're planning a trip to St. Pete, be sure to check out these top five must-see attractions in downtown.
