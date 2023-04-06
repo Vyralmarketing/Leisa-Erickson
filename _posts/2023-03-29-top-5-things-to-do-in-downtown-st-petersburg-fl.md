@@ -12,9 +12,9 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/peters.jpg
 youtube_code:
 ---
-{% include youtube.html %}
-
 {% include excerpt.html %}
+
+![](/uploads/peters.jpg){: width="1280" height="720"}
 
 St. Petersburg, FL is a vibrant and exciting city that offers visitors a plethora of things to see and do. In the heart of it all is downtown St. Pete, a bustling urban center packed with cultural attractions, world-class dining, and stunning waterfront views. If you're planning a trip to St. Pete, be sure to check out these top five must-see attractions in downtown.
 
