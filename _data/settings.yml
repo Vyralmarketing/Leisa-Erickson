@@ -5,13 +5,13 @@ description: >-
   and Advice will help you sell more homes in less time.
 CTAS:
   - title: Join Our Team
-    url: /join-our-team/
+    url: https://evstpete.com/join-our-team/
   - title: Free Newsletter
-    url: /subscribe/
+    url: https://evstpete.com/subscribe/
   - title: Free Strategy Call
-    url: /strategy-call/
+    url: https://evstpete.com/strategy-call/
   - title: Contact
-    url: /contact/
+    url: https://evstpete.com/contact/
 show_custom_links: false
 custom_links:
   - title:
