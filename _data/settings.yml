@@ -12,6 +12,24 @@ CTAS:
     url: https://evstpete.com/strategy-call/
   - title: Contact
     url: https://evstpete.com/contact/
+sidebar_CTAS:
+  - title: Join Our Team
+    image: /img/cta-images/join_our_team.png
+    url: https://evstpete.com/join-our-team/
+    button-text: Apply Now
+  - title: Free Newsletter
+    image: /img/cta-images/newsletter.png
+    url: https://evstpete.com/subscribe/
+    button-text: Sign Up Now
+  - title: Free Strategy Call
+    image: /img/cta-images/strategy_call.png
+    url: https://evstpete.com/strategy-call/
+    button-text: Book a Call
+  - title: Real Estate Workshop
+    image: /img/cta-images/workshop.png
+    url:
+    button-text: Reserve Your Seat    
+
 show_custom_links: false
 custom_links:
   - title:
