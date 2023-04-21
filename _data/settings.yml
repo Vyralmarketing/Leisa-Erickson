@@ -5,7 +5,7 @@ description: >-
   and Advice will help you sell more homes in less time.
 CTAS:
   - title: Join Our Team
-    url: https://evstpete.com/join-our-team/
+    url: https://apply.evstpete.com/
   - title: Free Newsletter
     url: https://evstpete.com/subscribe/
   - title: Free Strategy Call
@@ -28,8 +28,7 @@ sidebar_CTAS:
   - title: Real Estate Workshop
     image: /img/cta-images/workshop.png
     url:
-    button-text: Reserve Your Seat    
-
+    button-text: Reserve Your Seat
 show_custom_links: false
 custom_links:
   - title:
