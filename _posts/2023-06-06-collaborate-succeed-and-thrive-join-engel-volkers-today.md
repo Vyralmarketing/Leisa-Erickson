@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/erickson-working-ev.jpg
-youtube_code: xcy8Z1WFW3k
+youtube_code: IWUlJaf29d4
 ---
 {% include youtube.html %}
 
