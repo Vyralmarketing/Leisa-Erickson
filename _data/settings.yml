@@ -34,8 +34,8 @@ custom_links:
   - title:
     url:
 client:
-  name:
-  title: Broker | License Partner | Private Office
+  name: ENGEL & VÖLKERS ST. PETE
+  title:
   license_number:
   about_markdown: >-
     Premier real estate agents, the Leisa Erickson Group brings 20+ years of
@@ -61,7 +61,7 @@ client:
     worked with us can testify to our persistence and perseverance. You deserve
     nothing less!"
   brand:
-  brokerage: ENGEL & VÖLKERS ST. PETE
+  brokerage:
   market: St. Petersburg
   address: '102 2nd Ave NE, #101B St. Petersburg, FL 33701'
   phone: 239-789-7106
