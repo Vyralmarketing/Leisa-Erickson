@@ -34,7 +34,7 @@ custom_links:
   - title:
     url:
 client:
-  name: Leisa Erickson
+  name:
   title: Broker | License Partner | Private Office
   license_number:
   about_markdown: >-
@@ -60,7 +60,7 @@ client:
     an advocate for you, your money, and your investment. Anyone who’s ever
     worked with us can testify to our persistence and perseverance. You deserve
     nothing less!"
-  brand: The Erickson Team
+  brand:
   brokerage: ENGEL & VÖLKERS ST. PETE
   market: St. Petersburg
   address: '102 2nd Ave NE, #101B St. Petersburg, FL 33701'
