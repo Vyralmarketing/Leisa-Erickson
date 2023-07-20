@@ -15,7 +15,7 @@ Do you need direction and focus to sell more homes? I’ll meet with you one on 
 
 Sticking to a consistent business plan that makes you money can be overwhelming.
 
-My name is {{ site.data.settings.client.name }} and I’ve sold an extensive amount of homes to date. I want to help you sell more homes.
+My name is Leisa Erickson and I’ve sold an extensive amount of homes to date. I want to help you sell more homes.
 
 I’ll learn about your needs, goals, and why you started selling real estate. I’m happy to offer my insight on what I would do in your situation. I’ll also share with you what we’re doing to generate leads and sales.
 
@@ -53,7 +53,7 @@ I look forward to meeting with you. Let’s grow your business.
 
 Sincerely,
 
-{{site.data.settings.client.name}}
+Leisa Erickson
 
 
 <div data-paperform-id="m86e6jlu"></div><script>(function() {var script = document.createElement('script'); script.src = "https://paperform.co/__embed.min.js"; document.body.appendChild(script); })()</script>
