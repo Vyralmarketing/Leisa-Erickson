@@ -2,7 +2,7 @@
 layout: post
 title: >-
   Unlock the Power of Renovations: Elevate Your Real Estate Game With Our
-  Program
+  Renovation Service
 date: 2023-08-09 00:00:00
 excerpt: Highlighting our top-notch turnkey renovation service for our team.
 enclosure:
