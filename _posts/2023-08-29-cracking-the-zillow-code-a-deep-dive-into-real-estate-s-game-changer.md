@@ -27,7 +27,7 @@ Let's delve into a significant player in the industry: Zillow. They wield substa
 
 **Zillow's transformation over the past couple of years is noteworthy.** Historically, they functioned as a third-party syndicator for property listings. However, this narrative has shifted, prompting the question: friend or foe? For now, they position themselves as allies, a stance I'm inclined to accept. Their overarching strategy, as per their CEO, involves creating an end-to-end experience for retail consumers.
 
-Their journey began by obtaining licenses to operate as brokers in multiple states. While they lack physical offices in some markets, like Tampa Bay, they however, have licensing and are equipped to receive referrals. This step opened the door for referral fees, a significant shift from the early days when Zillow operated as a premier agent without charging such fees.
+Their journey began by obtaining licenses to operate as brokers in multiple states. While they lack physical offices in some markets, like Tampa Bay, they have licensing and are equipped to receive referrals. This step opened the door for referral fees, a significant shift from the early days when Zillow operated as a premier agent without charging such fees.
 
 {% include pullquote.html %}
 
