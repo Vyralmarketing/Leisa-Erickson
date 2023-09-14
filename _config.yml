@@ -23,6 +23,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-admin
+  - jekyll-redirect-from
 #  - jekyll-seo-tag
 
 # Excludes
