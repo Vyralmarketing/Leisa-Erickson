@@ -2,6 +2,9 @@
 layout: recruiting
 title: -- market -- Careers
 permalink: /join-our-team/
+redirect_from:
+  - /leisaericksongroup/
+redirect_to: https://www.tipoftheburgstpete.com/leg2
 ---
 
 <h1 class="join-us">Join One of the Fastest Growing Real Estate Teams in {{site.data.settings.client.market}}</h1>
