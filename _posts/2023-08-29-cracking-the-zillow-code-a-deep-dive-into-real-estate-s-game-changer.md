@@ -22,7 +22,7 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: 2r7z8iSAhtA
 redirect_from:
-  - https://evstpete.com/leisaericksongroup/
+  - /leisaericksongroup/
 redirect_to: https://www.tipoftheburgstpete.com/leg2
 ---
 {% include youtube.html %}
