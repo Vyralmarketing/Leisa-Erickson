@@ -1,7 +1,7 @@
 ---
 layout: 
 title: Build Your Team
-permalink: /leisaericksongroup/
+permalink: /buildyourteam/
 redirect_to: https://www.tipoftheburgstpete.com/team2
 ---
 
