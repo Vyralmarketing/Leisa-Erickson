@@ -1,8 +1,8 @@
 ---
 layout: 
-title: Leisa Erikson Group
+title: Join EV St. Pete
 permalink: /leisaericksongroup/
-redirect_to: https://www.tipoftheburgstpete.com/leg2
+redirect_to: https://www.tipoftheburgstpete.com/brokerage2
 ---
 
 
