@@ -1,5 +1,5 @@
 ---
-layout: recruiting
+layout: 
 title: Leisa Erikson Group
 permalink: /leisaericksongroup/
 redirect_from:
