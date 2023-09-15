@@ -1,8 +1,8 @@
 ---
 layout: 
-title: Leisa Erikson Group
+title: Build Your Team
 permalink: /leisaericksongroup/
-redirect_to: https://www.tipoftheburgstpete.com/leg2
+redirect_to: https://www.tipoftheburgstpete.com/team2
 ---
 
 
