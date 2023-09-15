@@ -1,8 +1,8 @@
 ---
 layout: 
-title: Leisa Erikson Group
-permalink: /leisaericksongroup/
-redirect_to: https://www.tipoftheburgstpete.com/leg2
+title: Join EV St. Pete
+permalink: /joinus/
+redirect_to: https://www.tipoftheburgstpete.com/brokerage2
 ---
 
 
