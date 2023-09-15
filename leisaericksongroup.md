@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: recruiting
 title: Leisa Erikson Group
 permalink: /leisaericksongroup/
 redirect_from:
@@ -7,4 +7,4 @@ redirect_from:
 redirect_to: https://www.tipoftheburgstpete.com/leg2
 ---
 
-
+<div></div>
