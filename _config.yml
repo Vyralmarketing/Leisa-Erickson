@@ -1,9 +1,9 @@
   
-# redirects:
-#   - from: '/leisaericksongroup'
-#     to: 'https://www.tipoftheburgstpete.com/leg2'
 redirects:
-  - '/leisaericksongroup/': 'https://www.tipoftheburgstpete.com/leg2'
+  - from: '/leisaericksongroup'
+    to: 'https://www.tipoftheburgstpete.com/leg2'
+# redirects:
+#   - '/leisaericksongroup/': 'https://www.tipoftheburgstpete.com/leg2'
     
 title: "Free Training"
 # the subpath of your site, e.g. /blog
